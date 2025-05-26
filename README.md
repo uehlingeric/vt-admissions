@@ -1,10 +1,10 @@
-# College Admissions Trends Analysis (2018-2025)
+# Virginia Tech Admissions Trends Analysis (2018-2025)
 
-A comprehensive data analysis project examining college admissions patterns, demographic disparities, COVID-19 impact, and future enrollment projections.
+A comprehensive data analysis project examining Virginia Tech admissions patterns, demographic disparities, COVID-19 impact, and future enrollment projections.
 
 ## Project Overview
 
-This project analyzes college admissions data spanning seven academic years (2018-19 through 2024-25), providing insights into application volumes, acceptance rates, yield rates, and enrollment metrics across various demographic dimensions. The analysis reveals significant shifts in admissions patterns, with particular attention to demographic equity considerations and the transformative impact of the COVID-19 pandemic.
+This project analyzes Virginia Tech admissions data spanning seven academic years (2018-19 through 2024-25), providing insights into application volumes, acceptance rates, yield rates, and enrollment metrics across various demographic dimensions. The analysis reveals significant shifts in admissions patterns, with particular attention to demographic equity considerations and the transformative impact of the COVID-19 pandemic.
 
 ## Key Features
 
